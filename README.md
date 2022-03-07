@@ -9,7 +9,7 @@ Entrepreneur,Programmer,Web developer, Marketer, Author, Trainer & Social Media 
 Skills: REACT / JS / HTML / CSS/ PYTHON / DJANGO / JAVA / SQL / PHP / etc
 
 - 🔭 I’m currently working on Messagefashionbd 
-- 🌱 I’m currently learning Jacascript 
+- 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Full stack development 
 
