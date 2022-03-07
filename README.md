@@ -1,7 +1,7 @@
 ![Full Stack Web Developer](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/242170891_246559607479389_8782387516154219750_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_ohc=Y4Dtql4wKRwAX9OVhrb&_nc_ht=scontent.fdac41-1.fna&oh=00_AT-010AsxfBvLOhfgQuq59v3Uxfm_qB8kDhJwQNoZL6Klw&oe=622BB83A)
 
 ## Hi there, This is Anuwar Hosain.
-#### Full Stack Web Developer
+### Full Stack Web Developer
 
 
 Entrepreneur,Programmer,Web developer, Marketer, Author, Trainer & Social Media Influencer.
@@ -25,8 +25,6 @@ Skills: REACT / JS / HTML / CSS/ PYTHON / DJANGO / JAVA / SQL / PHP / etc
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuwar-Hosain&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anuwar-Hosain)  
-
-![GitHub metrics](https://metrics.lecoq.io/Anuwar-Hosain)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Anuwar-Hosain)  
 
