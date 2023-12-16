@@ -5,7 +5,7 @@
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p>
 
-<p align="left"> <a href="https://twitter.com/anuwarhossn" target="blank"><img src="https://img.shields.io/twitter/follow/anuwarhossn?logo=twitter&style=for-the-badge" alt="anuwarhosain" /></a> </p>
+<p align="left"> <a href="https://twitter.com/anuwarhossn" target="_blank"><img src="https://img.shields.io/twitter/follow/anuwarhossn?logo=twitter&style=for-the-badge" alt="anuwarhosain" /></a> </p>
 
 ## 🚀 About Me
 
@@ -29,4 +29,3 @@ I’m a Full Stack Web developer who is passionate about making error-free websi
 ## 📧 For Business Inquiries
 
 ✅ ► anuwarhossn@gmail.com
-
