@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I’m a Full Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 15 of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with MERN Stack but some technologies I enjoy working with include Next.js, Nodejs as well as AWS.
+I'm a Full Stack Web Developer who is passionate about creating error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love solving real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I have created 45 websites for my clients. I take pride in delivering quality work and maintaining excellent communication. Most of the time, I work with the MERN Stack, but I also enjoy working with other technologies like Angular, Next.js, Node.js, and AWS.
 
 ## 👨‍💻 Skills & Experiance:
 
