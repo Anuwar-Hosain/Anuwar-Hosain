@@ -14,6 +14,7 @@ I'm a Full Stack Web Developer who is passionate about creating error-free websi
 ## 👨‍💻 Skills & Experiance:
 
 ✅ MERN Stack <br>
+✅ Angular <br>
 ✅ JavaScript <br>
 ✅ React <br>
 ✅ Node.JS <br>
